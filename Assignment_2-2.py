@@ -20,13 +20,13 @@ print(a1 is not c1)
 
 #in
 
-fruits = ['apple', 'banana', 'orange']
-print('banana' in fruits)    
-print('grape' in fruits)     
+colour = ['RED', 'BLUE', 'GREEN']
+print('BLUE' in colour)    
+print('BLACK' in colour)     
 
 #not in
 
-fruit = ['apple', 'banana', 'orange']
+colour = ['RED', 'BLUE', 'GREEN']
 
-print('banana' not in fruit) 
-print('grape' not in fruit)  
+print('BLUE' not in colour) 
+print('BLACK' not in colour)  
